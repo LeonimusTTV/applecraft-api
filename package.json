@@ -1,0 +1,14 @@
+{
+  "name": "applecraft-token",
+  "private": true,
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "test": "bun test"
+  },
+  "devDependencies": {
+    "wrangler": "^4.158.0"
+  }
+}

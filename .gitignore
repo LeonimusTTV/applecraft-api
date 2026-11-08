@@ -1,0 +1,5 @@
+node_modules/
+.dev.vars
+*.p8
+.wrangler/
+.DS_Store
