@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo-256.png" width="128" alt="AppleCraft logo" /></p>
+
 # AppleCraft API
 
 Cloudflare Worker that signs Apple Music **developer tokens** for the [AppleCraft mod](https://github.com/LeonimusTTV).
